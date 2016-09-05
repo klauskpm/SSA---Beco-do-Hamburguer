@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSA - Beco do Hamburguer</string>
+    <string name="restaurant_address">Beco dos Barbeiros, 6 - A - Centro, Rio de Janeiro - RJ, 20011-010</string>
+    <string name="restaurant_description">Uma hamburgueria moderna que serve hambugueres artesanais com opção de adicionais.</string>
+    <string name="restaurant_phone">(21) 3970-5311</string>
+</resources>

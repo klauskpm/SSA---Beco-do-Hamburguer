@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SSA - Beco do Hamburguer</string>
+    <string name="restaurant_name" translatable="false">Beco do Hamburguer</string>
+    <string name="restaurant_description">A cool, modern diner that serves artisanal burgers with a choice of side dishes.</string>
+    <string name="restaurant_address">6 Beco dos Barbeiros St, Rio de Janeiro, RJ 20011-010, Brazil</string>
+    <string name="restaurant_phone">+55 21 3970-5311</string>
+</resources>
